@@ -1,0 +1,8 @@
+[],1000,random_player,7.26
+[0],1000,random_player,6.93
+[1],1000,random_player,7.02
+[2],1000,random_player,6.72
+"[0, 1]",1000,random_player,6.63
+"[0, 2]",1000,random_player,6.18
+"[1, 2]",1000,random_player,6.75
+"[0, 1, 2]",1000,random_player,6.81
