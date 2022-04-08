@@ -1,0 +1,5 @@
+﻿episodes M,% deviation of MC-approximation from true shapley
+500,230.06%
+200,141.99%
+1000,38.64%
+2000,16.21%
